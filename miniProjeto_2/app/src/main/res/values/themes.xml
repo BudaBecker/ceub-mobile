@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.DesafioGamer" parent="android:Theme.Material.NoActionBar" />
+</resources>
